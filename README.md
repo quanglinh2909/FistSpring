@@ -75,5 +75,6 @@ public class SwaggerConfig {
 }
 ```
 truy cập vào đường dẫn http://localhost:8080/swagger-ui/#/
+(http://localhost:8080/swagger-ui.html)
 
 
